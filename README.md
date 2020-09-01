@@ -1,6 +1,6 @@
 ## My Personal Progress through the book _[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)_
-
-- [x] Chapter 1: Getting Started
+### Chapters:
+- [x] [Chapter 1: Getting Started](#chapter1)
 - [x] Chapter 2: Programming a Guessing Game
 - [ ] Chapter 3: Common Programming Concepts
 - [ ] Chapter 4: Understanding Ownership
@@ -20,3 +20,7 @@
 - [ ] Chapter 18: Patterns and Matching
 - [ ] Chapter 19: Advanced Features
 - [ ] Chapter 20: Final Project: Building a Multithreaded Web Server
+
+(#chapter1)
+## Chapter 1: Getting Started
+Installation was fairly straightforward. Cargo seems like a great package manager.
