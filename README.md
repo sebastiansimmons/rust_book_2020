@@ -3,7 +3,7 @@
 ### Progress so far:
 Click to read my end of chapter thoughts.
 - [x] [Chapter 1: Getting Started](#chapter-1-getting-started)
-- [x] Chapter 2: Programming a Guessing Game
+- [x] [Chapter 2: Programming a Guessing Game](#chapter-2-programming-a-guessing-game)
 - [ ] Chapter 3: Common Programming Concepts
 - [ ] Chapter 4: Understanding Ownership
 - [ ] Chapter 5: Using Structs to Structure Related Data
@@ -27,4 +27,5 @@ Click to read my end of chapter thoughts.
 Installation was fairly straightforward. Cargo seems like a great package manager.
 
 ## Chapter 2: Programming a Guessing Game
-Installation was fairly straightforward. Cargo seems like a great package manager.
+I like that by default variables are immutable. That's one of the design choices that originally caught my eye and made me want to learn Rust.
+I appreciate how Cargo handles crates and updating.
