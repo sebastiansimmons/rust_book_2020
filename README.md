@@ -1,6 +1,6 @@
 ## My Personal Progress through the book _[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)_
 
-### Progress so far:
+### Index
 - [x] [Chapter 1: Getting Started](#chapter-1-getting-started)
 - [x] [Chapter 2: Programming a Guessing Game](#chapter-2-programming-a-guessing-game)
 - [ ] Chapter 3: Common Programming Concepts
