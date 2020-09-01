@@ -5,7 +5,7 @@
 - [x] [Chapter 2: Programming a Guessing Game](#chapter-2-programming-a-guessing-game)
 - [x] [Chapter 3: Common Programming Concepts](#chapter-3-common-programming-concepts)
 - [x] [Chapter 4: Understanding Ownership](#chapter-4-understanding-ownership)
-- [ ] Chapter 5: Using Structs to Structure Related Data
+- [x] [Chapter 5: Using Structs to Structure Related Data](#chapter-5-using-structs-to-structure-related-data)
 - [ ] Chapter 6: Enums and Pattern Matching
 - [ ] Chapter 7: Managing Growing Projects with Packages, Crates, and Modules
 - [ ] Chapter 8: Common Collections
@@ -35,3 +35,7 @@ I mostly skimmed this chapter since it's written without the assumption that eve
 ## Chapter 4: Understanding Ownership
 
 Ownership is a really elegant solution to all the memory issues you can run into in a language like C++.
+
+## Chapter 5: Using Structs to Structure Related Data
+
+Pretty straightforward. The Rust specific rules around structs for memory safety are all great. I especially appreciate [automatic referencing and dereferencing](https://doc.rust-lang.org/book/ch05-03-method-syntax.html#wheres-the---operator).
