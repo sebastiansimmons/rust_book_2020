@@ -23,6 +23,6 @@ Click to read my end of chapter thoughts.
 - [ ] Chapter 19: Advanced Features
 - [ ] Chapter 20: Final Project: Building a Multithreaded Web Server
 
-#chapter-1-summary
+###chapter-1-summary
 ## Chapter 1: Getting Started
 Installation was fairly straightforward. Cargo seems like a great package manager.
