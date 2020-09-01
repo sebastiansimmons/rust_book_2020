@@ -25,3 +25,6 @@ Click to read my end of chapter thoughts.
 
 ## Chapter 1: Getting Started
 Installation was fairly straightforward. Cargo seems like a great package manager.
+
+## Chapter 2: Programming a Guessing Game
+Installation was fairly straightforward. Cargo seems like a great package manager.
