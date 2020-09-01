@@ -4,7 +4,7 @@
 - [x] [Chapter 1: Getting Started](#chapter-1-getting-started)
 - [x] [Chapter 2: Programming a Guessing Game](#chapter-2-programming-a-guessing-game)
 - [x] [Chapter 3: Common Programming Concepts](#chapter-3-common-programming-concepts)
-- [ ] Chapter 4: Understanding Ownership
+- [x] [Chapter 4: Understanding Ownership](#chapter-4-understanding-ownership)
 - [ ] Chapter 5: Using Structs to Structure Related Data
 - [ ] Chapter 6: Enums and Pattern Matching
 - [ ] Chapter 7: Managing Growing Projects with Packages, Crates, and Modules
@@ -31,3 +31,7 @@ I appreciate how Cargo handles crates and updating.
 
 ## Chapter 3: Common Programming Concepts
 I mostly skimmed this chapter since it's written without the assumption that everyone reading has used compiled languages before.
+
+## Chapter 4: Understanding Ownership
+
+Ownership is a really elegant solution to all the memory issues you can run into in a language like C++.
