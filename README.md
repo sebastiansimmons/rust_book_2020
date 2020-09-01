@@ -1,4 +1,4 @@
-## My Personal Progress through the book [The Rust Programming Language_](https://doc.rust-lang.org/book/title-page.html)
+## My Personal Progress through the book [_The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 
 - [x] Chapter 1: Getting Started
 - [x] Chapter 2: Programming a Guessing Game
