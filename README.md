@@ -30,4 +30,4 @@ I like that by default variables are immutable. That's one of the design choices
 I appreciate how Cargo handles crates and updating.
 
 ## Chapter 3: Common Programming Concepts
-I mostly skimmed this chapter since it's just syntax stuff. At the end of the chapter there were some suggested programs that I also included for completion's sake.
+I mostly skimmed this chapter since it's written without the assumption that everyone reading has used compiled languages before.
