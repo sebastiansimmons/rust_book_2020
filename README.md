@@ -2,7 +2,7 @@
 
 ### Progress so far:
 Click to read my end of chapter thoughts.
-- [x] [Chapter 1: Getting Started](#chapter-1)
+- [x] [Chapter 1: Getting Started](#chapter-1-summary)
 - [x] Chapter 2: Programming a Guessing Game
 - [ ] Chapter 3: Common Programming Concepts
 - [ ] Chapter 4: Understanding Ownership
@@ -23,6 +23,6 @@ Click to read my end of chapter thoughts.
 - [ ] Chapter 19: Advanced Features
 - [ ] Chapter 20: Final Project: Building a Multithreaded Web Server
 
-(#chapter-1)
+(#chapter-1-summary)
 ## Chapter 1: Getting Started
 Installation was fairly straightforward. Cargo seems like a great package manager.
