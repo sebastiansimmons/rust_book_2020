@@ -3,7 +3,7 @@
 ### Index/Progress
 - [x] [Chapter 1: Getting Started](#chapter-1-getting-started)
 - [x] [Chapter 2: Programming a Guessing Game](#chapter-2-programming-a-guessing-game)
-- [ ] Chapter 3: Common Programming Concepts
+- [x] [Chapter 3: Common Programming Concepts](#chapter-3-common-programming-concepts)
 - [ ] Chapter 4: Understanding Ownership
 - [ ] Chapter 5: Using Structs to Structure Related Data
 - [ ] Chapter 6: Enums and Pattern Matching
@@ -28,3 +28,6 @@ Installation was fairly straightforward. Cargo seems like a great package manage
 ## Chapter 2: Programming a Guessing Game
 I like that by default variables are immutable. That's one of the design choices that originally caught my eye and made me want to learn Rust.
 I appreciate how Cargo handles crates and updating.
+
+## Chapter 3: Common Programming Concepts
+I mostly skimmed this chapter since it's just syntax stuff. At the end of the chapter there were some suggested programs that I also included for completion's sake.
