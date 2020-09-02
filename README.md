@@ -1,12 +1,15 @@
-## My Personal Progress through the book _[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)_
+## My Progress through the book _[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)_
 
-### Index/Progress
+[Rust](https://www.rust-lang.org/) has started to catch my ear as it shows up in articles and comes up in conversation.
+ ["Why Discord is switching from Go to Rust"](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) was especially intriguing as Discord engineers found "Even with just basic optimization, Rust was able to outperform the hyper hand-tuned Go version." After a classmate told me about how every variable is immutable by default and explained the concept of ownership, I knew I had to check it out.
+
+### Index
 - [x] [Chapter 1: Getting Started](#chapter-1-getting-started)
 - [x] [Chapter 2: Programming a Guessing Game](#chapter-2-programming-a-guessing-game)
 - [x] [Chapter 3: Common Programming Concepts](#chapter-3-common-programming-concepts)
 - [x] [Chapter 4: Understanding Ownership](#chapter-4-understanding-ownership)
 - [x] [Chapter 5: Using Structs to Structure Related Data](#chapter-5-using-structs-to-structure-related-data)
-- [ ] Chapter 6: Enums and Pattern Matching
+- [x] [Chapter 6: Enums and Pattern Matching](#chapter-6-nums-and-pattern-matching)
 - [ ] Chapter 7: Managing Growing Projects with Packages, Crates, and Modules
 - [ ] Chapter 8: Common Collections
 - [ ] Chapter 9: Error Handling
@@ -34,8 +37,14 @@ I mostly skimmed this chapter since it's written without the assumption that eve
 
 ## Chapter 4: Understanding Ownership
 
-Ownership is a really elegant solution to all the memory issues you can run into in a language like C++.
+Ownership is a really elegant solution to all the memory issues you can run into in a language like C++. The ownership system is one of the main reasons I wanted to learn Rust and I can see how it informs programming in Rust.
 
 ## Chapter 5: Using Structs to Structure Related Data
 
 Pretty straightforward. The Rust specific rules around structs for memory safety are all great. I especially appreciate [automatic referencing and dereferencing](https://doc.rust-lang.org/book/ch05-03-method-syntax.html#wheres-the---operator).
+
+## Chapter 6: Enums and Pattern Matching
+
+My only experience with functional programming is using JavaScript in a functional way. Algebraic data types and enums seem like a more graceful way of handling this type of struct/class pattern matching. It's one of those language quirks I'll have to use a little before I see how it clicks in my head.
+
+Looking forward to putting this stuff into use once the book gets to a project.
