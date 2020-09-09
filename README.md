@@ -11,7 +11,7 @@
 - [x] [Chapter 5: Using Structs to Structure Related Data](#chapter-5-using-structs-to-structure-related-data)
 - [x] [Chapter 6: Enums and Pattern Matching](#chapter-6-nums-and-pattern-matching)
 - [x] [Chapter 7: Managing Growing Projects with Packages, Crates, and Modules](#chapter-7-managing-growing-projects-with-packages-crates-and-modules)
-- [ ] Chapter 8: Common Collections
+- [x] [Chapter 8: Common Collections](#chapter-8-common-collections)
 - [ ] Chapter 9: Error Handling
 - [ ] Chapter 10: Generic Types, Traits, and Lifetimes
 - [ ] Chapter 11: Writing Automated Tests
@@ -51,4 +51,10 @@ Looking forward to putting this stuff into use once the book gets to a project.
 
 ## Chapter 7: Managing Growing Projects with Packages, Crates, and Modules
 
-Modules are pretty straightforward and look like they act exactly as expected. Not much else to say.
+Modules are pretty straightforward and look like they act exactly as expected. Cargo seems like a pretty good dependency manager. I'll have to build some projects before really knowing. I've browse through some crates and read some project write ups and it seems like most common needs can be met at this point in the languages life. From the little I've looked, there are enough crates out there to get projects kickstarted without having to reinvent the wheel at every turn. However, Rust is still relatively young as a language and has plenty of room for rapid expansion and meaningful contribution.
+
+## Chapter 8: Common Collections
+
+Ownership adds an extra element to think about with collections. Vectors seem fairly normal aside from the extra thinking required with ownership. Maybe as a quick basic project I will implement a few sorting/search algorithms to get the feel for manipulating collections.
+
+The end of the strings chapter sums it up nicely, they are not that simple. Strings in Rust are a lot more complicated than they are in a language like Python and 99% of its use cases.
