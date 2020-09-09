@@ -10,7 +10,7 @@
 - [x] [Chapter 4: Understanding Ownership](#chapter-4-understanding-ownership)
 - [x] [Chapter 5: Using Structs to Structure Related Data](#chapter-5-using-structs-to-structure-related-data)
 - [x] [Chapter 6: Enums and Pattern Matching](#chapter-6-nums-and-pattern-matching)
-- [ ] Chapter 7: Managing Growing Projects with Packages, Crates, and Modules
+- [x] [Chapter 7: Managing Growing Projects with Packages, Crates, and Modules](#chapter-7-managing-growing-projects-with-packages-crates-and-modules)
 - [ ] Chapter 8: Common Collections
 - [ ] Chapter 9: Error Handling
 - [ ] Chapter 10: Generic Types, Traits, and Lifetimes
@@ -45,6 +45,10 @@ Pretty straightforward. The Rust specific rules around structs for memory safety
 
 ## Chapter 6: Enums and Pattern Matching
 
-My only experience with functional programming is using JavaScript in a functional way. Algebraic data types and enums seem like a more graceful way of handling this type of struct/class pattern matching. It's one of those language quirks I'll have to use a little before I see how it clicks in my head.
+Algebraic data types and enums seem like a more graceful way of handling this type of struct/class pattern matching. It's one of those language quirks I'll have to use a little before I see how it clicks in my head.
 
 Looking forward to putting this stuff into use once the book gets to a project.
+
+## Chapter 7: Managing Growing Projects with Packages, Crates, and Modules
+
+Modules are pretty straightforward and look like they act exactly as expected. Not much else to say.
