@@ -8,7 +8,7 @@
  At the end of each chapter are some suggested projects to
 
  [Chapter 8: Common Collections](#chapter-8-common-collections)
- - [Pig Latin translator](#pig-latin-translator)
+ - [Pig Latin translator](./chapter_8/pig_latin/)
 
 
 ### Index/Chapter Notes
@@ -67,6 +67,4 @@ Ownership adds an extra element to think about with collections. Vectors seem fa
 
 The end of the strings chapter sums it up nicely, they are not that simple. Strings in Rust are a lot more complicated than they are in a language like Python and 99% of its use cases.
 
-### [Pig Latin Translator](./chapter_8/pig_latin/)
-
-A simple program that takes a reference to a string and "translates" it into Pig Latin. This is a pretty good exercise in basic string manipulation and getting familiar with methods associated with the [String](https://doc.rust-lang.org/std/string/struct.String.html) type.
+**Project:** [Pig Latin Translator](./chapter_8/pig_latin/)
