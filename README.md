@@ -3,7 +3,15 @@
 [Rust](https://www.rust-lang.org/) has started to catch my ear as it shows up in articles and comes up in conversation.
  ["Why Discord is switching from Go to Rust"](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f) was especially intriguing as Discord engineers found "Even with just basic optimization, Rust was able to outperform the hyper hand-tuned Go version." After a classmate told me about how every variable is immutable by default and explained the concept of ownership, I knew I had to check it out.
 
-### Index
+ ### Projects
+
+ At the end of each chapter are some suggested projects to
+
+ [Chapter 8: Common Collections](#chapter-8-common-collections)
+ - [Pig Latin translator](#pig-latin-translator)
+
+
+### Index/Chapter Notes
 - [x] [Chapter 1: Getting Started](#chapter-1-getting-started)
 - [x] [Chapter 2: Programming a Guessing Game](#chapter-2-programming-a-guessing-game)
 - [x] [Chapter 3: Common Programming Concepts](#chapter-3-common-programming-concepts)
@@ -58,3 +66,10 @@ Modules are pretty straightforward and look like they act exactly as expected. C
 Ownership adds an extra element to think about with collections. Vectors seem fairly normal aside from the extra thinking required with ownership. Maybe as a quick basic project I will implement a few sorting/search algorithms to get the feel for manipulating collections.
 
 The end of the strings chapter sums it up nicely, they are not that simple. Strings in Rust are a lot more complicated than they are in a language like Python and 99% of its use cases.
+
+### [Pig Latin Translator](./chapter_8/chapter_8.md)
+
+A simple program that takes a reference to a string and "translates" it into Pig Latin. This is a pretty good exercise in basic string manipulation and getting familiar with methods associated with the [String](https://doc.rust-lang.org/std/string/struct.String.html) type.
+
+
+../chapter_8/chapter_8.md
