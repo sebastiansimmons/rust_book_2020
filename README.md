@@ -23,8 +23,8 @@
 - [x] [Chapter 9: Error Handling](#chapter-9-error-handling)
 - [x] [Chapter 10: Generic Types, Traits, and Lifetimes](#chapter-10-generic-types-traits-and-lifetimes)
 - [x] [Chapter 11: Writing Automated Tests](#chapter-11-writing-automated-tests)
-- [x] [Chapter 12: An I/O Project: Building a Command Line Program](#chapter-12-an-i-o-project-building-a-command-line-program)
-- [x] Chapter 13: Functional Language Features: Iterators and Closures
+- [x] [Chapter 12: An I/O Project: Building a Command Line Program](#chapter-12-an-io-project-building-a-command-line-program)
+- [x] [Chapter 13: Functional Language Features: Iterators and Closures](#chapter-13-functional-language-features-iterators-and-closures)
 - [x] [Chapter 14: More About Cargo and Crates.io](#chapter-14-more-about-cargo-and-crates-io)
 - [ ] Chapter 15: Smart Pointers
 - [ ] Chapter 16: Fearless Concurrency
