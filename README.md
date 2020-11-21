@@ -20,7 +20,7 @@
 - [x] [Chapter 6: Enums and Pattern Matching](#chapter-6-nums-and-pattern-matching)
 - [x] [Chapter 7: Managing Growing Projects with Packages, Crates, and Modules](#chapter-7-managing-growing-projects-with-packages-crates-and-modules)
 - [x] [Chapter 8: Common Collections](#chapter-8-common-collections)
-- [x] Chapter 9: Error Handling
+- [x] [Chapter 9: Error Handling](#chapter-9-error-handling)
 - [x] Chapter 10: Generic Types, Traits, and Lifetimes
 - [x] Chapter 11: Writing Automated Tests
 - [x] Chapter 12: An I/O Project: Building a Command Line Program
@@ -68,3 +68,10 @@ Ownership adds an extra element to think about with collections. Vectors seem fa
 The end of the strings chapter sums it up nicely, they are not that simple. Strings in Rust are a lot more complicated than they are in a language like Python and 99% of its use cases.
 
 **Project:** [Pig Latin Translator](./chapter_8/pig_latin/)
+
+## Chapter 9: Error Handling
+
+I had heard that error handling is one of the places rust code can start to look a bit messy. 
+I can definitely see how the results<> return type could lead to a lot of seemingly extra work in early stages of development. However, I think functionally it's a cool feature.
+
+
