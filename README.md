@@ -20,11 +20,11 @@
 - [x] [Chapter 6: Enums and Pattern Matching](#chapter-6-nums-and-pattern-matching)
 - [x] [Chapter 7: Managing Growing Projects with Packages, Crates, and Modules](#chapter-7-managing-growing-projects-with-packages-crates-and-modules)
 - [x] [Chapter 8: Common Collections](#chapter-8-common-collections)
-- [ ] Chapter 9: Error Handling
-- [ ] Chapter 10: Generic Types, Traits, and Lifetimes
-- [ ] Chapter 11: Writing Automated Tests
-- [ ] Chapter 12: An I/O Project: Building a Command Line Program
-- [ ] Chapter 13: Functional Language Features: Iterators and Closures
+- [x] Chapter 9: Error Handling
+- [x] Chapter 10: Generic Types, Traits, and Lifetimes
+- [x] Chapter 11: Writing Automated Tests
+- [x] Chapter 12: An I/O Project: Building a Command Line Program
+- [x] Chapter 13: Functional Language Features: Iterators and Closures
 - [ ] Chapter 14: More About Cargo and Crates.io
 - [ ] Chapter 15: Smart Pointers
 - [ ] Chapter 16: Fearless Concurrency
