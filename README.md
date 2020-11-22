@@ -92,6 +92,6 @@ Iterators are really powerful and seem worth learning more than what this chapte
 
 Closures are very useful and seem like they are easy to forget but powerful when used properly.
 
-## Chapter 14: More About Cargo and Creates.io
+## Chapter 14: More About Cargo and Crates.io
 
 I have already poked around crates.io a bit and enjoy Cargo. It seems like workspaces and Cargo provide the tools needed for managing projects as they start to scale up in complexity.
