@@ -27,7 +27,7 @@
 - [x] [Chapter 13: Functional Language Features: Iterators and Closures](#chapter-13-functional-language-features-iterators-and-closures)
 - [x] [Chapter 14: More About Cargo and Crates.io](#chapter-14-more-about-cargo-and-cratesio)
 - [x] [Chapter 15: Smart Pointers](#chapter-15-smart-pointers)
-- [ ] Chapter 16: Fearless Concurrency
+- [x] [Chapter 16: Fearless Concurrency](#chapter-16-fearless-concurrency)
 - [ ] Chapter 17: Object-Oriented Programming Features of Rust
 - [ ] Chapter 18: Patterns and Matching
 - [ ] Chapter 19: Advanced Features
@@ -99,3 +99,7 @@ I have already poked around crates.io a bit and enjoy Cargo. It seems like works
 ## Chapter 15: Smart Pointers
 
 Rc<T> seems like a good solution for multiple ownership cases. Pointers and smart pointers seem to be where the concept of ownership, something I really like about Rust, introduces extra complications in the world of pointers and data structures that have inherent multiple reference points. The solutions of weak and strong ownership sharing seem like good solutions but I'll have to really write some code before getting a good feel for where it makes sense to use these concepts.
+
+## Chapter 16: Fearless Concurrency
+
+I'm excited for chapter 20 when this chapter really gets put in context. It seems like Rust has everything needed for safe concurrency. I was already somewhat familiar with mutexes so that wasn't too much of a conceptual challenge. I want to see how this all looks in practice.
