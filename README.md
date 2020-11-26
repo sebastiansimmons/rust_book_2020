@@ -10,6 +10,8 @@
  [Chapter 8: Common Collections](#chapter-8-common-collections)
  - [Pig Latin translator](./chapter_8/pig_latin/)
 
+ [Chapter 12: An I/O Project: Building a Command Line Program](#chapter-12-an-io-project-building-a-command-line-program)
+ - [MiniGrep](./chapter_12/minigrep/)
 
 ### Index/Chapter Notes
 - [x] [Chapter 1: Getting Started](#chapter-1-getting-started)
