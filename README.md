@@ -26,7 +26,7 @@
 - [x] [Chapter 12: An I/O Project: Building a Command Line Program](#chapter-12-an-io-project-building-a-command-line-program)
 - [x] [Chapter 13: Functional Language Features: Iterators and Closures](#chapter-13-functional-language-features-iterators-and-closures)
 - [x] [Chapter 14: More About Cargo and Crates.io](#chapter-14-more-about-cargo-and-cratesio)
-- [ ] Chapter 15: Smart Pointers
+- [x] [Chapter 15: Smart Pointers](#chapter-15-smart-pointers)
 - [ ] Chapter 16: Fearless Concurrency
 - [ ] Chapter 17: Object-Oriented Programming Features of Rust
 - [ ] Chapter 18: Patterns and Matching
@@ -95,3 +95,7 @@ Closures are very useful and seem like they are easy to forget but powerful when
 ## Chapter 14: More About Cargo and Crates.io
 
 I have already poked around crates.io a bit and enjoy Cargo. It seems like workspaces and Cargo provide the tools needed for managing projects as they start to scale up in complexity.
+
+## Chapter 15: Smart Pointers
+
+Rc<T> seems like a good solution for multiple ownership cases. Pointers and smart pointers seem to be where the concept of ownership, something I really like about Rust, introduces extra complications in the world of pointers and data structures that have inherent multiple reference points. The solutions of weak and strong ownership sharing seem like good solutions but I'll have to really write some code before getting a good feel for where it makes sense to use these concepts.
