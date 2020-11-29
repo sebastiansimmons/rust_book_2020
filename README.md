@@ -30,7 +30,7 @@
 - [x] [Chapter 14: More About Cargo and Crates.io](#chapter-14-more-about-cargo-and-cratesio)
 - [x] [Chapter 15: Smart Pointers](#chapter-15-smart-pointers)
 - [x] [Chapter 16: Fearless Concurrency](#chapter-16-fearless-concurrency)
-- [ ] Chapter 17: Object-Oriented Programming Features of Rust
+- [x] [Chapter 17: Object-Oriented Programming Features of Rust](#chapter-17-object-oriented-programming-features-of-rust)
 - [ ] Chapter 18: Patterns and Matching
 - [ ] Chapter 19: Advanced Features
 - [ ] Chapter 20: Final Project: Building a Multithreaded Web Server
@@ -105,3 +105,5 @@ Rc<T> seems like a good solution for multiple ownership cases. Pointers and smar
 ## Chapter 16: Fearless Concurrency
 
 I'm excited for chapter 20 when this chapter really gets put in context. It seems like Rust has everything needed for safe concurrency. I was already somewhat familiar with mutexes so that wasn't too much of a conceptual challenge. I want to see how this all looks in practice.
+
+## Chapter 17: Object-Oriented Programming Features of Rust
