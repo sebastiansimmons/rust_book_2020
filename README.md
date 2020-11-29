@@ -31,7 +31,7 @@
 - [x] [Chapter 15: Smart Pointers](#chapter-15-smart-pointers)
 - [x] [Chapter 16: Fearless Concurrency](#chapter-16-fearless-concurrency)
 - [x] [Chapter 17: Object-Oriented Programming Features of Rust](#chapter-17-object-oriented-programming-features-of-rust)
-- [ ] Chapter 18: Patterns and Matching
+- [x] [Chapter 18: Patterns and Matching](#chapter-18-patterns-and-matching)
 - [ ] Chapter 19: Advanced Features
 - [ ] Chapter 20: Final Project: Building a Multithreaded Web Server
 
@@ -109,3 +109,7 @@ I'm excited for chapter 20 when this chapter really gets put in context. It seem
 ## Chapter 17: Object-Oriented Programming Features of Rust
 
 Trait objects definitely seem useful. I think I preferred the second method of implementing state through type changing rather than a state trait but I can see uses for both.
+
+## Chapter 18: Patterns and Matching
+
+Not much else to say other than I appreciate the various options for controlling flow.
