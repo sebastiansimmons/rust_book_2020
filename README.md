@@ -107,3 +107,5 @@ Rc<T> seems like a good solution for multiple ownership cases. Pointers and smar
 I'm excited for chapter 20 when this chapter really gets put in context. It seems like Rust has everything needed for safe concurrency. I was already somewhat familiar with mutexes so that wasn't too much of a conceptual challenge. I want to see how this all looks in practice.
 
 ## Chapter 17: Object-Oriented Programming Features of Rust
+
+Trait objects definitely seem useful. I think I preferred the second method of implementing state through type changing rather than a state trait but I can see uses for both.
