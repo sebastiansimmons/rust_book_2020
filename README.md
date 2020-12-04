@@ -32,7 +32,7 @@
 - [x] [Chapter 16: Fearless Concurrency](#chapter-16-fearless-concurrency)
 - [x] [Chapter 17: Object-Oriented Programming Features of Rust](#chapter-17-object-oriented-programming-features-of-rust)
 - [x] [Chapter 18: Patterns and Matching](#chapter-18-patterns-and-matching)
-- [ ] Chapter 19: Advanced Features
+- [x] [Chapter 19: Advanced Features](#chapter-19-advanced-features)
 - [ ] Chapter 20: Final Project: Building a Multithreaded Web Server
 
 ## Chapter 1: Getting Started
@@ -113,3 +113,9 @@ Trait objects definitely seem useful. I think I preferred the second method of i
 ## Chapter 18: Patterns and Matching
 
 Not much else to say other than I appreciate the various options for controlling flow.
+
+## Chapter 19: Advanced Features
+
+I mostly skimmed this chapter. Unsafe I already mostly knew about from reading forums and it's something I plan to explore with a few practice problems. 
+
+## Chapter 20: Final Project: Building a Multithreaded Web Server
