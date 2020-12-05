@@ -33,7 +33,7 @@
 - [x] [Chapter 17: Object-Oriented Programming Features of Rust](#chapter-17-object-oriented-programming-features-of-rust)
 - [x] [Chapter 18: Patterns and Matching](#chapter-18-patterns-and-matching)
 - [x] [Chapter 19: Advanced Features](#chapter-19-advanced-features)
-- [ ] Chapter 20: Final Project: Building a Multithreaded Web Server
+- [x] [Chapter 20: Final Project: Building a Multithreaded Web Server](#chapter-20-final-project-building-a-multithreaded-web-server)
 
 ## Chapter 1: Getting Started
 Installation was fairly straightforward. Cargo seems like a great package manager.
@@ -119,3 +119,5 @@ Not much else to say other than I appreciate the various options for controlling
 I mostly skimmed this chapter. Unsafe I already mostly knew about from reading forums and it's something I plan to explore with a few practice problems. 
 
 ## Chapter 20: Final Project: Building a Multithreaded Web Server
+
+This project was really fun. It's the right amount of complicated and simple for an end of book project. It gave me a far better understanding of how to think about closures and was a better hands on multithreading project than I have done in some of my computer science classes.
