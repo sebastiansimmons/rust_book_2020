@@ -120,4 +120,4 @@ I mostly skimmed this chapter. Unsafe I already mostly knew about from reading f
 
 ## Chapter 20: Final Project: Building a Multithreaded Web Server
 
-This project was really fun. It's the right amount of complicated and simple for an end of book project. It gave me a far better understanding of how to think about closures and was a better hands on multithreading project than I have done in some of my computer science classes.
+This project was great at tying everything together. I feel like I have a good basic understanding of the Rust language am starting to get used to the mindset required to write it. This server was a fun build and I plan on throwing trying to build a similar project as my first Rust project.
